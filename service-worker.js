@@ -456,7 +456,7 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "93907dcea42dbe0efec279c5c4b0450c"
+    "revision": "44614cf4ec9618497df6187319b3d744"
   },
   {
     "url": "inventory.bundle.css",
